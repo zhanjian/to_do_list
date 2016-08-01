@@ -15,7 +15,7 @@ gem 'active_model_serializers'
 gem 'jquery-ui-rails'
 gem 'acts_as_list'
 
-gem 'sdoc', '~> 0.4.1', group: :doc
+gem 'sdoc', '~> 0.4.1', group: :doc, require: false
 
 group :development do
   gem 'web-console', '~> 2.0'
