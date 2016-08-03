@@ -14,6 +14,7 @@ gem 'slim'
 gem 'active_model_serializers'
 gem 'jquery-ui-rails'
 gem 'acts_as_list'
+gem 'better_errors', '~> 2.1.1'
 
 gem 'sdoc', '~> 0.4.1', group: :doc, require: false
 
